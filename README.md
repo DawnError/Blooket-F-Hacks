@@ -204,9 +204,9 @@ function _0x22f6(_0x153f4c, _0x1012e5) {
     <h2>
         Return To BlooketHacks:
     </h2>
-    <p>
+    <h3>
         <a href="https://dawnerror.github.io/APC-Betta-Blooket-Bookmarklets/">
             APC-Betta-Blooket-Bookmarklets
         </a>
-    </p>
+    </h3>
 </center>
